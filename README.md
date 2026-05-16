@@ -13,7 +13,7 @@ This tutorial outlines the process of creating users in Entra ID.<br />
 attachments/assets/e5f6f8d6-6980-4159-8399-5e6db404a780" /> 
 </p> 
 <p> 
-Created a new user named Chris Walker. 
+Created a new user named Denzel Washington. 
 </p> 
 <br /> 
 <p> 
@@ -21,6 +21,6 @@ Created a new user named Chris Walker.
 attachments/assets/52c6eb54-5718-4855-ae1b-6eda7e2581f3" /> 
 </p> 
 <p> 
-Created a new user named Jordan Lee. 
+Created a new user named Daffy Duck. 
 </p> 
 <br /> 
